@@ -8,7 +8,7 @@ The plan is for Yoshi to own this for open dessimation with Raaz and Benny as a 
 
 Currently the draft is manned by Yoshi with Raaz support in Overleaf until Benny is free after Xmas.
 
-We will eventually move everything here carefully before a public release.
+We will eventually move everything here carefully before a public release. 
 
 Raaz and Yoshi
 
