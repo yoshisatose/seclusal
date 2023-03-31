@@ -1,5 +1,5 @@
-# suclu
-suclu
+# seclusal
+seclusal
 
 This is to get Yoshi's insights into medium blog article with code notebooks.
 Then perhaps work on a more mathematcal description.
