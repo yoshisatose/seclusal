@@ -1,6 +1,6 @@
 # SECLUSAL: A SupErvised CLUStering ALgorithm
 
-This is the repo for a blog post in Medium.
+This is the repo for [a blog post in Medium](https://medium.com/@mail_59349/seclusal-a-supervised-clustering-algorithm-33db7a30593d).
 
 The blog post proposes **a supervised clustering method** that partitions data points into *a limited number of clusters with respect to a target variable*, based on *the features specified by the user*.
 
