@@ -10,7 +10,7 @@ The resulting clusters have the following characteristics: 
 
 The method is *robust to the presence of irrelevant features and correlated features*. This supervised clustering method also helps to increase the interpretability of machine learning models.
 
-![alt text]([http://url/to/img.png](https://github.com/yoshisatose/seclusal/blob/main/blog_medium/images/block_function.png))
+<img src="https://github.com/yoshisatose/seclusal/blob/main/blog_medium/images/block_function.png" widht="600">
 
 # The contents of this repository
 
